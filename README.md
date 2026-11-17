@@ -162,11 +162,17 @@ Exploring intelligent AI systems capable of reasoning, using tools and automatin
 
 <div align="center">
 
-### ⚡ GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nirvix360&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github"/>
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvix360&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9"/>
+<div align="center">
+
+<img width="48%" src="https://github-stats-extended.vercel.app/api?username=Nirvix360&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+
+<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirvix360&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
 
 ### 🔥 Contribution Streak
 
@@ -190,13 +196,16 @@ Exploring intelligent AI systems capable of reasoning, using tools and automatin
 
 ---
 
+
+
 ## 🏆 ACHIEVEMENTS — UNLOCKED
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nirvix360&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12" width="100%"/>
+<img src="https://trophy.ryglcloud.net/?username=Nirvix360&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12" width="100%" alt="GitHub Trophies"/>
 
 </div>
+
 
 ---
 
@@ -224,8 +233,7 @@ Exploring intelligent AI systems capable of reasoning, using tools and automatin
 
 <!-- Add your LinkedIn URL here -->
 
-<!-- Add your professional email here -->
-
+dp658909@gmail.com
 </div>
 
 ---
