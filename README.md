@@ -1,142 +1,157 @@
-<!-- ═══════════ JARVIS INSPIRED GITHUB PROFILE ═══════════ -->
+# 👋 SYSTEM ONLINE — NIRVIX360
 
-<div align="center">
+\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:06B6D4&height=220&section=header&text=NIRVIX360%20&fontSize=55&fontColor=E0F7FF&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Python%20%7C%20Full%20Stack&descAlignY=60&descSize=18" width="100%" />
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:075985,100:06B6D4&height=230&section=header&text=NIRVIX360&fontSize=65&fontColor=E0F7FF&animation=fadeIn&fontAlignY=38&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE&descAlignY=60&descSize=16](https://capsule-render.vercel.app/api?type=waving\&color=0:020617,45:075985,100:06B6D4\&height=230\&section=header\&text=NIRVIX360\&fontSize=65\&fontColor=E0F7FF\&animation=fadeIn\&fontAlignY=38\&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20THE%20FUTURE\&descAlignY=60\&descSize=16)" width="100%"/>
 
-# 👨‍💻 SYSTEM ONLINE: NIRVIX360
+### `AI DEVELOPER` • `PYTHON ENGINEER` • `FULL STACK DEVELOPER`
 
-### `AI / ML DEVELOPER` · `PYTHON ENGINEER` · `FULL STACK DEVELOPER`
+\<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Initializing+NIRVIX360...;Exploring+Agentic+AI+%F0%9F%A4%96;Building+Intelligent+Applications;Python+%7C+MERN+%7C+Machine+Learning;Turning+Ideas+Into+Reality+%E2%9A%A1](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=18\&duration=3000\&pause=800\&color=00E5FF\&center=true\&vCenter=true\&width=700\&lines=Initializing+NIRVIX360...;Exploring+Agentic+AI+%F0%9F%A4%96;Building+Intelligent+Applications;Python+%7C+MERN+%7C+Machine+Learning;Turning+Ideas+Into+Reality+%E2%9A%A1)" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Initializing+AI+Developer+Mode...;Exploring+the+World+of+Agentic+AI;Building+Intelligent+Applications;Python+%7C+MERN+%7C+Machine+Learning;Sometimes+I+Build+My+Own+JARVIS+%F0%9F%A4%96" />
+\<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Nirvix360&style=for-the-badge&color=0891B2&label=SYSTEM+VISITORS" />
+\<img src="[https://komarev.com/ghpvc/?username=Nirvix360&style=for-the-badge&color=0891B2&label=PROFILE+VISITORS](https://komarev.com/ghpvc/?username=Nirvix360\&style=for-the-badge\&color=0891B2\&label=PROFILE+VISITORS)"/>
+\<img src="[https://img.shields.io/github/followers/Nirvix360?style=for-the-badge&color=0891B2&label=FOLLOWERS](https://img.shields.io/github/followers/Nirvix360?style=for-the-badge\&color=0891B2\&label=FOLLOWERS)"/>
+\<img src="[https://img.shields.io/github/stars/Nirvix360?style=for-the-badge&color=0891B2&label=TOTAL+STARS](https://img.shields.io/github/stars/Nirvix360?style=for-the-badge\&color=0891B2\&label=TOTAL+STARS)"/>
 
-</div>
+\</div>
 
 ---
 
-## 🧠 // ABOUT ME
+## 🧠 ABOUT ME — DEVELOPER PROFILE
 
 ```python
 class PradeepKumar:
 
     def __init__(self):
         self.name = "Pradeep Kumar"
+        self.username = "NIRVIX360"
         self.role = "B.Tech CSE Student"
+
         self.interests = [
             "Artificial Intelligence",
             "Machine Learning",
             "Full Stack Development",
-            "Agentic AI"
+            "Agentic AI",
+            "Generative AI"
         ]
 
-        self.current_focus = [
+        self.currently_learning = [
+            "Agentic AI",
             "MERN Stack",
-            "AI/ML Projects",
-            "Agentic AI"
+            "Large Language Models"
         ]
 
-        self.goal = "Build intelligent technology"
+        self.mission = "Build technology that makes a difference"
 
     def introduce(self):
-        return "Turning ideas into intelligent solutions!"
+        return "Think. Code. Innovate. Repeat."
 ```
 
-I'm a passionate Computer Science student fascinated by the intersection of **Artificial Intelligence, Python Development, and Full Stack Engineering**.
+I'm a passionate Computer Science student interested in building intelligent applications and exploring the future of technology.
 
-I love experimenting with new technologies and developing applications that solve real-world problems.
-
-- 🤖 Exploring Agentic AI and intelligent AI agents.
-- 🐍 Building applications using Python.
-- 🌐 Developing full-stack applications with MERN.
-- 🧠 Exploring LLMs, Generative AI and Machine Learning.
+- 🤖 Exploring Agentic AI and autonomous AI agents.
+- 🐍 Developing applications using Python.
+- 🌐 Building full-stack applications with MERN.
+- 🧠 Learning Machine Learning, LLMs and Generative AI.
 - ⚡ Inspired by Iron Man's JARVIS.
 
-> "The future belongs to those who build it."
+> "Great technology begins with curiosity and becomes reality through code."
 
 ---
 
-## ⚡ // CURRENT SYSTEM STATUS
+## ⚡ CURRENT SYSTEM STATUS
 
-| Module | Status |
-|---|---|
-| Python Development | Active |
-| MERN Stack Development | In Progress |
-| Machine Learning | Exploring |
-| Agentic AI | Learning |
-| Generative AI | Exploring |
-| AI Automation | Exploring |
+| Development Module | Status         |
+| ------------------ | -------------- |
+| Python Development | 🟢 Active      |
+| MERN Stack         | 🟡 In Progress |
+| Machine Learning   | 🟡 Exploring   |
+| Agentic AI         | 🟡 Learning    |
+| Generative AI      | 🟡 Exploring   |
+| AI Automation      | 🟡 Exploring   |
 
 ---
 
-## 🛠️ // TECHNOLOGY ARSENAL
+## 🛠️ TECHNOLOGY ARSENAL
 
 ### `01` Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" />
+\<p>
+\<img src="[https://skillicons.dev/icons?i=python,java,c,js&theme=dark](https://skillicons.dev/icons?i=python,java,c,js\&theme=dark)"/>
+\</p>
 
 ### `02` Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark" />
+\<p>
+\<img src="[https://skillicons.dev/icons?i=html,css,bootstrap,react&theme=dark](https://skillicons.dev/icons?i=html,css,bootstrap,react\&theme=dark)"/>
+\</p>
 
 ### `03` Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark" />
+\<p>
+\<img src="[https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi&theme=dark](https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi\&theme=dark)"/>
+\</p>
 
-### `04` Database Systems
+### `04` Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark" />
+\<p>
+\<img src="[https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=dark](https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase\&theme=dark)"/>
+\</p>
 
-### `05` AI / ML / GEN AI
+### `05` AI / ML / GENERATIVE AI
 
-<img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn,anaconda&theme=dark" />
+\<p>
+\<img src="[https://skillicons.dev/icons?i=pytorch,opencv,sklearn,anaconda&theme=dark](https://skillicons.dev/icons?i=pytorch,opencv,sklearn,anaconda\&theme=dark)"/>
+\</p>
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+\<p>
+\<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)"/>
+\<img src="[https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)"/>
+\</p>
 
 ### `06` Developer Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter&theme=dark" />
+\<p>
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,docker,jupyter\&theme=dark)"/>
+\</p>
 
 ---
 
-## 🚀 // MISSION CONTROL — PROJECTS
+## 🚀 FEATURED PROJECTS — MISSION CONTROL
 
 ### 🤖 01. SNAPCLASS — AI POWERED ATTENDANCE SYSTEM
 
-<kbd>ARTIFICIAL INTELLIGENCE</kbd> <kbd>COMPUTER VISION</kbd>
+\<img src="[https://img.shields.io/badge/AI-POWERED-00E5FF?style=flat-square](https://img.shields.io/badge/AI-POWERED-00E5FF?style=flat-square)"/> \<img src="[https://img.shields.io/badge/Python-DEVELOPMENT-3776AB?style=flat-square](https://img.shields.io/badge/Python-DEVELOPMENT-3776AB?style=flat-square)"/>
 
-An intelligent attendance management system designed to automate traditional attendance using face recognition and voice-based technologies.
+An intelligent attendance management system designed to modernize traditional attendance using face recognition and voice-based technologies.
 
-**Core Capabilities**
-- Face Recognition
-- Face Embeddings
-- Voice-based Technologies
+**Core Features**
+
+- Face Recognition and Face Embeddings
 - Automated Attendance Management
-- Interactive Streamlit Dashboard
+- Voice-based Technologies
+- Streamlit Dashboard
 - Supabase Database Integration
 
 **Tech Stack:** Python · OpenCV · Streamlit · Supabase
 
-### 🌐 02. MERN STACK APPLICATIONS
+[Explore My GitHub Repositories](https://github.com/Nirvix360?tab=repositories)
 
-<kbd>FULL STACK DEVELOPMENT</kbd>
+### 🌐 02. MERN STACK DEVELOPMENT
 
-Building modern, responsive and interactive web applications.
+Building modern and responsive full-stack web applications.
 
-- React.js frontend
+- React.js frontend development
 - Node.js and Express.js backend
-- MongoDB database
-- REST API integration
+- MongoDB database integration
+- REST API development
 
 ### 🧠 03. AGENTIC AI EXPLORATION
 
-<kbd>FUTURE TECHNOLOGY</kbd>
-
-Exploring intelligent systems that can reason, use tools and automate multi-step tasks.
+Exploring intelligent AI systems capable of reasoning, using tools and automating multi-step tasks.
 
 - Large Language Models
 - AI Agents
@@ -146,60 +161,90 @@ Exploring intelligent systems that can reason, use tools and automate multi-step
 
 ---
 
-## 📊 // GITHUB SYSTEM ANALYTICS
+## 📊 GITHUB ANALYTICS — SYSTEM PERFORMANCE
 
-<div align="center">
+\<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nirvix360&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" />
+### ⚡ GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvix360&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Nirvix360&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Nirvix360\&show_icons=true\&count_private=true\&include_all_commits=true\&hide_border=true\&bg_color=0D1117\&title_color=00E5FF\&icon_color=00E5FF\&text_color=C9D1D9\&rank_icon=github)"/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirvix360&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvix360&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirvix360\&layout=compact\&langs_count=8\&hide_border=true\&bg_color=0D1117\&title_color=00E5FF\&text_color=C9D1D9)"/>
 
-</div>
+### 🔥 Contribution Streak
 
----
+\<img width="75%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Nirvix360&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E](https://github-readme-streak-stats.herokuapp.com/?user=Nirvix360\&theme=transparent\&hide_border=true\&ring=00E5FF\&fire=00E5FF\&currStreakLabel=00E5FF\&sideLabels=00E5FF\&currStreakNum=FFFFFF\&sideNums=FFFFFF\&dates=8B949E)"/>
 
-## 🏆 // ACHIEVEMENT UNLOCKED
+### 📈 Contribution Activity Graph
 
-<div align="center">
+\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Nirvix360&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=CODING%20ACTIVITY%20GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=Nirvix360\&bg_color=0D1117\&color=00E5FF\&line=00E5FF\&point=FFFFFF\&area=true\&hide_border=true\&custom_title=CODING%20ACTIVITY%20GRAPH)"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nirvix360&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
+### 🗂️ GitHub Profile Summary
 
-</div>
+\<img width="100%" src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirvix360&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirvix360\&theme=github_dark)"/>
 
----
+### 💻 Most Productive Time
 
-## 🌐 // ESTABLISH CONNECTION
+\<img width="49%" src="[https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nirvix360&theme=github_dark&utcOffset=5.5](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nirvix360\&theme=github_dark\&utcOffset=5.5)"/>
 
-<div align="center">
+\<img width="49%" src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nirvix360&theme=github_dark](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nirvix360\&theme=github_dark)"/>
 
-<a href="https://github.com/Nirvix360">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
-</a>
-
-<!-- Add your LinkedIn profile link below -->
-
-<!-- Add your professional email below -->
-
-</div>
+\</div>
 
 ---
 
-## 💭 // DEVELOPER MINDSET
+## 🏆 ACHIEVEMENTS — UNLOCKED
 
-<div align="center">
+\<div align="center">
 
-### "I don't just write code. I engineer possibilities."
+\<img src="[https://github-profile-trophy.vercel.app/?username=Nirvix360&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=12](https://github-profile-trophy.vercel.app/?username=Nirvix360\&theme=algolia\&no-frame=true\&no-bg=true\&column=4\&margin-w=12)" width="100%"/>
+
+\</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE — ACTIVITY VISUALIZATION
+
+\<div align="center">
+
+\<img src="[https://raw.githubusercontent.com/Nirvix360/Nirvix360/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Nirvix360/Nirvix360/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="GitHub contribution snake animation"/>
+
+\</div>
+
+---
+
+## 🌐 ESTABLISH CONNECTION
+
+\<div align="center">
+
+\<a href="[https://github.com/Nirvix360](https://github.com/Nirvix360)">
+\<img src="[https://img.shields.io/badge/GitHub-NIRVIX360-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF](https://img.shields.io/badge/GitHub-NIRVIX360-0D1117?style=for-the-badge\&logo=github\&logoColor=00E5FF)"/>
+\</a>
+
+\<!-- Add your LinkedIn URL here -->
+
+\<!-- Add your professional email here -->
+
+\</div>
+
+---
+
+## 💭 DEVELOPER MINDSET
+
+\<div align="center">
+
+### "I DON'T JUST WRITE CODE. I ENGINEER POSSIBILITIES."
 
 **DREAM BIG. THINK SMART. BUILD INTELLIGENT.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Keep+Learning.;Keep+Building.;Keep+Innovating.;Stay+Curious+%F0%9F%9A%80" />
+\<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Keep+Learning.;Keep+Building.;Keep+Innovating.;Stay+Curious+%F0%9F%9A%80](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=17\&pause=1000\&color=00E5FF\&center=true\&vCenter=true\&width=500\&lines=Keep+Learning.;Keep+Building.;Keep+Innovating.;Stay+Curious+%F0%9F%9A%80)"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=120&section=footer" width="100%" />
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:020617&height=130&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:06B6D4,50:075985,100:020617\&height=130\&section=footer)" width="100%"/>
 
 ### ⭐ THANKS FOR VISITING MY DIGITAL WORKSPACE!
 
 `SYSTEM STATUS: ALWAYS LEARNING`
 
-</div>
+`NIRVIX360 © 2026`
+
+\</div>
